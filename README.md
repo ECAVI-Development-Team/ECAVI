@@ -15,14 +15,12 @@ In order to install ECAVI, first you need to install the ADOxx Metamodelling Pla
 * Installation Instructions for using ADOxx v1.5 with Windows: https://www.adoxx.org/live/installation-guide-15
 * Installation Instructions for using ADOxx v1.5 with MacOS: https://www.adoxx.org/live/installation-guide-mac-os
 
-### Installing
+### The ECAVI Library - Setup
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
+* Open the ADOxx Development Toolkit and log in 
 
 ```
-Give the example
+USERNAME: “Admin”, PASSWORD: “password”
 ```
 
 And repeat
@@ -32,26 +30,6 @@ until finished
 ```
 
 End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
 
 ## Deployment
 
