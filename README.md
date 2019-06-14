@@ -20,10 +20,10 @@ In order to install ECAVI, first you need to install the ADOxx Metamodelling Pla
 * Open the ADOxx Development Toolkit and log in 
 
 ```
-USERNAME: “Admin”, PASSWORD: “password”
+USERNAME: "Admin", PASSWORD: "password"
 ```
 
-And repeat
+* From the Menu choose the Library Management option and then click on the Management Button.
 
 ```
 until finished
