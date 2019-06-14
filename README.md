@@ -10,12 +10,10 @@ These instructions will get you a copy of the project up and running on your loc
 
 In order to install ECAVI, first you need to install the ADOxx Metamodelling Platform
 
-```
 * Download link (v1.5): https://www.adoxx.org/live/download-15
 * Installation Code Request: https://www.adoxx.org/live/installation-code
 * Installation Instructions for using ADOxx v1.5 with Windows: https://www.adoxx.org/live/installation-guide-15
 * Installation Instructions for using ADOxx v1.5 with MacOS: https://www.adoxx.org/live/installation-guide-mac-os
-```
 
 ### Installing
 
