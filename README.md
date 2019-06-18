@@ -46,3 +46,13 @@ Add additional notes about how to deploy this on a live system
 * **Nena Basina** - *Initial work* - [NenaBas](https://github.com/NenaBas)
 
 See also the list of [contributors](https://github.com/NenaBas/ECAVI-release-v2/graphs/contributors) who participated in this project.
+
+## License
+
+This project is licensed under the ... - see the [LICENSE.md](LICENSE.md) file for details
+
+## Acknowledgments
+
+* Hat tip to anyone whose code was used
+* Inspiration
+* etc
