@@ -22,7 +22,7 @@ Find the full installation guide in the [ECAVI-InstallationGuide.pdf](https://gi
 ## Built With
 
 * [ADOxx](https://www.adoxx.org/live/home) - The meta-modelling platform used
-* [Maven](https://maven.apache.org/) - Java project management
+* [Maven](https://maven.apache.org/) - Java project management (Java 11)
 * [Clingo](https://potassco.org/clingo/) - Answer Set Solver
 
 ## Authors
