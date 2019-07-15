@@ -17,11 +17,7 @@ In order to install ECAVI, first you need to install the ADOxx Metamodelling Pla
 
 ### The ECAVI Library - Setup
 
-Find the full installation guide in the [ECAVI-InstallationGuide.docx](https://github.com/NenaBas/ECAVI-release-v2/blob/master/ECAVI-InstallationGuide.docx) file.
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
+Find the full installation guide in the [ECAVI-InstallationGuide.pdf](https://github.com/NenaBas/ECAVI-release-v2/blob/master/ECAVI-InstallationGuide.pdf) file.
 
 ## Built With
 
@@ -35,12 +31,6 @@ Add additional notes about how to deploy this on a live system
 
 See also the list of [contributors](https://github.com/NenaBas/ECAVI-release-v2/graphs/contributors) who participated in this project.
 
-## License
-
-This project is licensed under the ... - see the [LICENSE.md](LICENSE.md) file for details
-
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* The help of the ADOxx.org community is valuable, especially from Wilfrid Utz. 
