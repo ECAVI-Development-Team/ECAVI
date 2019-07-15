@@ -33,4 +33,4 @@ See also the list of [contributors](https://github.com/NenaBas/ECAVI-release-v2/
 
 ## Acknowledgments
 
-* The help of the ADOxx.org community is valuable, especially from Wilfrid Utz. 
+* The help of the [ADOxx.org](https://www.adoxx.org/live/faq) community is valuable, especially from Wilfrid Utz. 
