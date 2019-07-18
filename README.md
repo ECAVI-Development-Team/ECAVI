@@ -4,7 +4,7 @@ ECAVI (Event Calculus Analysis and VIsualisation) is a domain-independent modell
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisites
 
@@ -22,7 +22,7 @@ Find the full installation guide in the [ECAVI-InstallationGuide.pdf](https://gi
 ## Built With
 
 * [ADOxx](https://www.adoxx.org/live/home) - The meta-modelling platform used
-* [Maven](https://maven.apache.org/) - Java project management (Java 11)
+* [Maven](https://maven.apache.org/) - Java project management (JAVA JRE version 11 or above needed in your machine)
 * [Clingo](https://potassco.org/clingo/) - Answer Set Solver
 
 ## Authors
