@@ -1,4 +1,4 @@
-# ECAVI-release-v2
+# ECAVI-release-v1.1
 
 ECAVI (Event Calculus Analysis and VIsualisation) is a domain-independent modelling tool, which offers a visual language for designing dynamic domains in the Event Calculus, while assisting the user in the process of knowledge engineering, through the ADOxx meta-modelling platform and with the help of a state-of-the-art automated reasoner, Clingo.
 
